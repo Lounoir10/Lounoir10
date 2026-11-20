@@ -1,82 +1,85 @@
 
-
-<!-- ═══════════════════════════════════════ -->
-<!--             LOU NOIR PROFILE             -->
-<!-- ═══════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:30251F,50:8C725B,100:DCC9AE&height=190&section=header&text=LOU%20NOIR&fontSize=55&fontColor=F5EBDD&fontAlignY=38&desc=CREATIVITY%20MEETS%20CODE&descSize=15&descAlignY=60&descColor=E8D5B9" width="100%" />
+<img src="./lounoir10" width="190" alt="Lou Noir pixel art avatar"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=18&duration=3000&pause=1000&color=C69B6A&center=true&vCenter=true&width=500&lines=Creative+mind.+Developing+code.;Designing+ideas+into+experiences.;Learning.+Building.+Evolving." />
+# こんにちは! Hello, I'm Lou.
 
-<br/>
-
-**PRAISE AMOS | LOU NOIR**
+### `LOU NOIR` — Creativity meets code.
 
 *Creative thinker • Aspiring Developer • Lifelong Learner*
 
-[![GitHub](https://img.shields.io/badge/GitHub-30251F?style=for-the-badge&logo=github&logoColor=F5EBDD)](https://github.com/Lounoir10)
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=15&duration=3000&pause=1000&color=C69B6A&center=true&vCenter=true&width=420&lines=Exploring+technology.;Designing+ideas+into+experiences.;Learning.+Building.+Evolving." alt="Animated introduction"/>
+
+✦ ──────────────── ✦
 
 </div>
 
----
+## ✧ About Me
 
-## `01` // ABOUT ME
+Hello! I'm **Praise Amos**, also known as **Lou Noir**.
 
-Hello! I'm **Praise**, also known as **Lou Noir**.
+I'm a creative individual exploring the world of technology, software and digital design.
 
-I'm interested in the intersection of creativity, design and technology.
+- Exploring **Software Development and AI**.
+- Learning and practising **Python and programming fundamentals**.
+- Interested in **UI/UX and Product Design**.
+- Background in **Fine and Applied Arts**.
+- Building projects, experimenting and learning as I go.
 
-- Currently learning **Python**.
-- Interested in building useful, thoughtful digital experiences.
-- Always curious about how things work and how they can be improved.
-
-> Creating with intention. Learning without limits.
-
----
-
-## `02` // TECH STACK
-
-**Currently exploring**
-
-![Python](https://img.shields.io/badge/Python-30251F?style=for-the-badge&logo=python&logoColor=DCC9AE)
-![Git](https://img.shields.io/badge/Git-30251F?style=for-the-badge&logo=git&logoColor=DCC9AE)
-![GitHub](https://img.shields.io/badge/GitHub-30251F?style=for-the-badge&logo=github&logoColor=DCC9AE)
+> "A curious mind, a creative eye and a willingness to build."
 
 ---
 
-## `03` // GITHUB STATISTICS
+## ✧ My Learning Space
+
+| Area | Current interests |
+|:---|:---|
+| Development | Python, programming, Git and GitHub |
+| Technology | AI, software development |
+| Design | UI/UX, Product Design, Figma |
+| Creative | Digital experiences and problem-solving |
+
+---
+
+## ✧ Projects & Experiments
+
+**01 — Python Phishing Link Scanner**
+
+A beginner-friendly Python project exploring phishing-link detection.
+
+[View repository →](https://github.com/Lounoir10/python-phishing-link-scanner-)
+
+**02 — Tailor Measurement App**
+
+An MVP concept exploring how technology can make tailor measurements easier to manage.
+
+*Currently in development.*
+
+---
+
+## ✧ GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lounoir10&show_icons=true&hide_border=true&bg_color=30251F&title_color=DCC9AE&text_color=F5EBDD&icon_color=C69B6A&rank_icon=github" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Lounoir10&show_icons=true&hide_border=true&bg_color=00000000&title_color=C69B6A&text_color=DCC9AE&icon_color=C69B6A" width="95%" alt="GitHub statistics"/>
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lounoir10&layout=compact&hide_border=true&bg_color=30251F&title_color=DCC9AE&text_color=F5EBDD" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lounoir10&layout=compact&hide_border=true&bg_color=00000000&title_color=C69B6A&text_color=DCC9AE" width="75%" alt="Most used programming languages"/>
 
 </div>
-
----
-
-## `05` // CURRENT STATUS
-
-```text
-STATUS: LEARNING IN PROGRESS
-FOCUS: PYTHON 
-MISSION: BUILDING ONE PROJECT AT A TIME
-MINDSET: ALWAYS EVOLVING
-```
 
 ---
 
 <div align="center">
 
-*Thanks for visiting my little corner of the internet.*
+✦ **Thanks for stopping by!** ✦
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DCC9AE,100:30251F&height=100&section=footer" width="100%" />
+*Keep creating. Keep learning. Keep evolving.*
 
-**LOU NOIR // END OF TRANSMISSION**
+`LOU NOIR // END OF TRANSMISSION`
 
 </div>
+
+
+
+
