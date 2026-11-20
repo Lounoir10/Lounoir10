@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<img src="./lounoir10.png.jpeg" width="150" alt="Lou Noir pixel art avatar"/>
-
-# こんにちは! Hello, I'm Lou.
+# こんにちは! I'm Lou.
 
 ### `LOU NOIR` — Creativity meets code.
 
