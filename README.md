@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# こんにちは! I'm Lou.
+# こんにちは! 
 
 ### `LOU NOIR` — Creativity meets code.
 
@@ -15,7 +15,7 @@
 
 ## ✧ About Me
 
-Hi! I'm **Praise**,.
+Hi! I'm **Praise**,
 
 I'm a creative individual exploring the world of technology, software and digital design.
 
