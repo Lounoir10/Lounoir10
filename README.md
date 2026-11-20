@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./lounoir10" width="190" alt="Lou Noir pixel art avatar"/>
+<img src="./lounoir10.png.jpeg" width="150" alt="Lou Noir pixel art avatar"/>
 
 # こんにちは! Hello, I'm Lou.
 
