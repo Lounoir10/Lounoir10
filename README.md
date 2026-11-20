@@ -21,8 +21,6 @@ I'm a creative individual exploring the world of technology, software and digita
 
 - Exploring **Software Development and AI**.
 - Learning and practising **Python and programming fundamentals**.
-- Interested in **UI/UX and Product Design**.
-- Background in **Fine and Applied Arts**.
 - Building projects, experimenting and learning as I go.
 
 > "A curious mind, a creative eye and a willingness to build."
@@ -35,7 +33,6 @@ I'm a creative individual exploring the world of technology, software and digita
 |:---|:---|
 | Development | Python, programming, Git and GitHub |
 | Technology | AI, software development |
-| Design | UI/UX, Product Design, Figma |
 | Creative | Digital experiences and problem-solving |
 
 ---
