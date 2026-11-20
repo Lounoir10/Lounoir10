@@ -15,7 +15,7 @@
 
 ## ✧ About Me
 
-Hello! I'm **Praise Amos**, also known as **Lou Noir**.
+Hi! I'm **Praise**,.
 
 I'm a creative individual exploring the world of technology, software and digital design.
 
