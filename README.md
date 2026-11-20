@@ -29,9 +29,7 @@ Hello! I'm **Praise**, also known as **Lou Noir**.
 I'm interested in the intersection of creativity, design and technology.
 
 - Currently learning **Python**.
-- Exploring **UI/UX Design and Product Design**.
 - Interested in building useful, thoughtful digital experiences.
-- Background in Fine and Applied Arts.
 - Always curious about how things work and how they can be improved.
 
 > Creating with intention. Learning without limits.
@@ -46,23 +44,9 @@ I'm interested in the intersection of creativity, design and technology.
 ![Git](https://img.shields.io/badge/Git-30251F?style=for-the-badge&logo=git&logoColor=DCC9AE)
 ![GitHub](https://img.shields.io/badge/GitHub-30251F?style=for-the-badge&logo=github&logoColor=DCC9AE)
 
-**Design tools**
-
-![Figma](https://img.shields.io/badge/Figma-8C725B?style=for-the-badge&logo=figma&logoColor=FFFFFF)
-
 ---
 
-## `03` // PROJECTS & EXPERIMENTS
-
-A collection of things I'm learning, building and exploring.
-
-- **Phishing Link Scanner** — A Python learning project.
-- **Tailor Measurement App** — An MVP concept focused on simplifying tailor measurements.
-- **Creative Experiments** — Exploring the relationship between design and technology.
-
----
-
-## `04` // GITHUB STATISTICS
+## `03` // GITHUB STATISTICS
 
 <div align="center">
 
@@ -80,7 +64,7 @@ A collection of things I'm learning, building and exploring.
 
 ```text
 STATUS: LEARNING IN PROGRESS
-FOCUS: PYTHON + UI/UX
+FOCUS: PYTHON 
 MISSION: BUILDING ONE PROJECT AT A TIME
 MINDSET: ALWAYS EVOLVING
 ```
